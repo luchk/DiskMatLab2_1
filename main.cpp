@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>
+
 using namespace std;
 
 void swap(int *a, int q, int f)
